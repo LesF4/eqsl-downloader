@@ -1,4 +1,7 @@
 eQSL Downloader DXCC
+
+[![Téléchargements totaux](https://img.shields.io/github/downloads/LesF4/eqsl-downloader/total?style=for-the-badge)](https://github.com/LesF4/eqsl-downloader/releases)
+
 Téléchargement, organisation et exploitation automatique des eQSL pour radioamateurs
 > 📻 Version 2.3 FINAL — Décembre 2025
 > Développé par **F4LPS** dans l'esprit *HAM SPIRIT*
